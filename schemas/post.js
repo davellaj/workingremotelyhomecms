@@ -46,12 +46,12 @@ export default {
         },
         {
           name: 'attribution',
-          type: 'string',
+          type: 'blockContent',
           title: 'Attribution',
           options: {
             isHighlighted: true
           }
-        }
+        },
       ]
     },
     {
